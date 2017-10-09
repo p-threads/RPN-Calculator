@@ -1,0 +1,13 @@
+—README-
+
+RPN Calculator in Java
+
+To run the program in terminal, 
+1. go to the directory which contains the programs.
+2. compile the .java file
+   javac Calculator.java
+3. run the program
+   java Calculator
+
+Now the calculator starts!
+Enjoy ;)
